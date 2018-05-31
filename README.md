@@ -1,6 +1,6 @@
 # Insight UI Desire
 
-A Desire blockchain explorer web application service for [Bitcore Node Desire](https://github.com/lazyboozer/bitcore-node-desire) using [Insight API Desire](https://github.com/lazyboozer/bitcore-node-desire).
+A Desire blockchain explorer web application service for [Bitcore Node Desire](https://github.com/lazyboozer/bitcore-node-desire) using [Insight API Desire](https://github.com/lazyboozer/insight-api-desire).
 
 ## Quick Start
 
@@ -70,7 +70,7 @@ compile***.
 
 ## Note
 
-For more details about the [Insight API](https://github.com/lazyboozer/Desire/insight-api-desire) configuration and end-points, go to [Insight API GitHub repository](https://github.com/lazyboozer/Desire/insight-api-desire).
+For more details about the [Insight API](https://github.com/lazyboozer/insight-api-desire) configuration and end-points, go to [Insight API GitHub repository](https://github.com/lazyboozer/insight-api-desire).
 
 ## Contribute
 
